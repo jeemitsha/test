@@ -1,0 +1,18 @@
+.scriptType-lH4h_tPr {
+    align-items: center;
+    color: #131722;
+    display: flex;
+    margin-left: 8px
+}
+
+html.theme-dark .scriptType-lH4h_tPr {
+    color: #d1d4dc
+}
+
+.active-lH4h_tPr {
+    color: #fff
+}
+
+html.theme-dark .active-lH4h_tPr {
+    color: #d1d4dc
+}
