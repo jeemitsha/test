@@ -1,0 +1,148 @@
+.item-Jc9IXW74 {
+    align-items: center;
+    color: var(--tv-color-toolbar-button-text, #131722);
+    display: flex;
+    font-size: 14px;
+    height: 100%;
+    padding: 0 7px;
+    position: relative;
+    z-index: 0
+}
+
+html.theme-dark .item-Jc9IXW74 {
+    color: var(--tv-color-toolbar-button-text, #d1d4dc)
+}
+
+.item-Jc9IXW74.hover-Jc9IXW74,
+.item-Jc9IXW74:active {
+    color: var(--tv-color-toolbar-button-text-hover, #131722)
+}
+
+@media (any-hover:hover) {
+    .item-Jc9IXW74:hover {
+        color: var(--tv-color-toolbar-button-text-hover, #131722)
+    }
+}
+
+html.theme-dark .item-Jc9IXW74.hover-Jc9IXW74,
+html.theme-dark .item-Jc9IXW74:active {
+    color: var(--tv-color-toolbar-button-text-hover, #d1d4dc)
+}
+
+@media (any-hover:hover) {
+    html.theme-dark .item-Jc9IXW74:hover {
+        color: var(--tv-color-toolbar-button-text-hover, #d1d4dc)
+    }
+}
+
+.item-Jc9IXW74.hover-Jc9IXW74:before,
+.item-Jc9IXW74:active:before {
+    background-color: var(--tv-color-toolbar-button-background-hover, #f0f3fa);
+    border-radius: var(--tv-toolbar-explicit-hover-border-radius, 2px);
+    bottom: var(--tv-toolbar-explicit-hover-margin, 2px);
+    content: "";
+    display: block;
+    left: var(--tv-toolbar-explicit-hover-margin, 2px);
+    left: 0;
+    position: absolute;
+    right: var(--tv-toolbar-explicit-hover-margin, 2px);
+    right: 0;
+    top: var(--tv-toolbar-explicit-hover-margin, 2px);
+    z-index: -1
+}
+
+@media (any-hover:hover) {
+    .item-Jc9IXW74:hover:before {
+        background-color: var(--tv-color-toolbar-button-background-hover, #f0f3fa);
+        border-radius: var(--tv-toolbar-explicit-hover-border-radius, 2px);
+        bottom: var(--tv-toolbar-explicit-hover-margin, 2px);
+        content: "";
+        display: block;
+        left: var(--tv-toolbar-explicit-hover-margin, 2px);
+        left: 0;
+        position: absolute;
+        right: var(--tv-toolbar-explicit-hover-margin, 2px);
+        right: 0;
+        top: var(--tv-toolbar-explicit-hover-margin, 2px);
+        z-index: -1
+    }
+}
+
+html.theme-dark .item-Jc9IXW74.hover-Jc9IXW74:before,
+html.theme-dark .item-Jc9IXW74:active:before {
+    background-color: var(--tv-color-toolbar-button-background-hover, #2a2e39)
+}
+
+@media (any-hover:hover) {
+    html.theme-dark .item-Jc9IXW74:hover:before {
+        background-color: var(--tv-color-toolbar-button-background-hover, #2a2e39)
+    }
+}
+
+.item-Jc9IXW74.isActive-Jc9IXW74 {
+    color: var(--tv-color-toolbar-button-text-active, #2962ff)
+}
+
+@media (any-hover:hover) {
+    .item-Jc9IXW74.isActive-Jc9IXW74:hover {
+        color: var(--tv-color-toolbar-button-text-active, #2962ff)
+    }
+}
+
+html.theme-sa .item-Jc9IXW74.isActive-Jc9IXW74 {
+    color: var(--tv-color-toolbar-button-text-active, #ff7200)
+}
+
+@media (any-hover:hover) {
+    html.theme-sa .item-Jc9IXW74.isActive-Jc9IXW74:hover {
+        color: var(--tv-color-toolbar-button-text-active, #ff7200)
+    }
+}
+
+html.theme-dark .item-Jc9IXW74.isActive-Jc9IXW74 {
+    color: var(--tv-color-toolbar-button-text-active, #2962ff)
+}
+
+@media (any-hover:hover) {
+    html.theme-dark .item-Jc9IXW74.isActive-Jc9IXW74:hover {
+        color: var(--tv-color-toolbar-button-text-active, #2962ff)
+    }
+}
+
+.item-Jc9IXW74.isFirst-Jc9IXW74 {
+    margin-left: 9px
+}
+
+.item-Jc9IXW74.isLast-Jc9IXW74 {
+    margin-right: 9px
+}
+
+.slider-yrq2LKUD {
+    bottom: 15%;
+    height: 2px;
+    transition-duration: 175ms;
+    transition-property: transform, opacity
+}
+
+.slider-yrq2LKUD,
+html.theme-dark .slider-yrq2LKUD {
+    background-color: initial
+}
+
+.slider-yrq2LKUD .inner-yrq2LKUD {
+    background-color: var(--tv-color-toolbar-button-text-active, #2962ff);
+    height: 100%;
+    margin: 0 8px
+}
+
+html.theme-sa .slider-yrq2LKUD .inner-yrq2LKUD {
+    background-color: var(--tv-color-toolbar-button-text-active, #ff7200)
+}
+
+html.theme-dark .slider-yrq2LKUD .inner-yrq2LKUD {
+    background-color: var(--tv-color-toolbar-button-text-active, #2962ff)
+}
+
+.sliderRow-hx8kZa1R {
+    height: 100%
+}

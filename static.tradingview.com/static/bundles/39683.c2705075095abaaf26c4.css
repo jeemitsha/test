@@ -1,0 +1,43 @@
+.block-Ffb0uHw9 {
+    font-feature-settings: "tnum" on, "lnum" on;
+    --ui-lib-typography-line-height: 18px;
+    --ui-lib-typography-font-size: 14px;
+    --ui-lib-badge-color-content: #fff;
+    --ui-lib-badge-background: #651fff;
+    font-family: -apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif;
+    font-size: var(--ui-lib-typography-font-size);
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: var(--ui-lib-typography-line-height);
+    width: max-content
+}
+
+.badge-important-Kra7mZuD {
+    --ui-lib-badge-background: #fb8c00;
+    --ui-lib-badge-color-content: #fff
+}
+
+.badge-important-Kra7mZuD .icon-Kra7mZuD {
+    align-items: center;
+    background-color: var(--ui-lib-badge-color-content);
+    display: inline-flex;
+    height: 18px;
+    margin-right: 0;
+    -webkit-mask: url(fire.def4cc0ca079d63cef2b.svg);
+    mask: url(fire.def4cc0ca079d63cef2b.svg);
+    width: 18px
+}
+
+.badge-important-Kra7mZuD.size-medium-Kra7mZuD {
+    --ui-lib-badge-padding-left: 4px
+}
+
+.badge-important-Kra7mZuD.size-large-Kra7mZuD {
+    --ui-lib-badge-padding-left: 6px
+}
+
+.badge-important-content-Kra7mZuD {
+    align-items: center;
+    display: flex
+}

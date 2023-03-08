@@ -1,0 +1,41 @@
+.container-ja6dxMQB {
+    border-bottom-right-radius: 0;
+    display: flex;
+    flex: 0 0 auto;
+    height: 28px;
+    margin-right: 5px;
+    overflow: hidden
+}
+
+.button-ja6dxMQB {
+    font-feature-settings: "tnum" on, "lnum" on;
+    --ui-lib-typography-line-height: 18px;
+    --ui-lib-typography-font-size: 14px;
+    align-items: center;
+    background-color: #2962ff;
+    border-radius: 16px;
+    color: #fff;
+    cursor: default;
+    display: flex;
+    font-family: -apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif;
+    font-size: var(--ui-lib-typography-font-size);
+    font-style: normal;
+    font-weight: 400;
+    justify-content: center;
+    line-height: var(--ui-lib-typography-line-height);
+    padding: 0 12px;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+html.theme-dark .button-ja6dxMQB {
+    background-color: #2962ff;
+    color: #d1d4dc
+}
+
+@media (any-hover:hover) {
+    .button-ja6dxMQB:hover,
+    html.theme-dark .button-ja6dxMQB:hover {
+        background-color: #1e53e5
+    }
+}
